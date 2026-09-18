@@ -22,8 +22,8 @@
 - [🕸️ ecommerce-browser-gym](https://github.com/arun-murari/ecommerce-browser-gym) — Multi-app browser-agent evaluation framework for reproducible LLM failure patterns
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-murari/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arunnmurari@gmail.com)
 
 <!--
 **arun-murari/arun-murari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
